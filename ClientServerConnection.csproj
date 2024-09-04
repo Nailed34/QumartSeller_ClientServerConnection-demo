@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>QumartSeller_ClientServerConnection</PackageId>
+    <Title>QumartSeller_ClientServerConnection</Title>
+    <Version>0.1.0-alpha</Version>
+    <Authors>Nailed34</Authors>
+    <Product>QumartSeller</Product>
+    <Copyright>MIT License</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/Nailed34/QumartSeller_ClientServerConnection.git</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
