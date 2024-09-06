@@ -7,17 +7,25 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>QumartSeller_ClientServerConnection</PackageId>
     <Title>QumartSeller_ClientServerConnection</Title>
-    <Version>0.1.0-alpha</Version>
+    <Version>0.1.1-alpha</Version>
     <Authors>Nailed34</Authors>
     <Product>QumartSeller</Product>
     <Copyright>MIT License</Copyright>
     <RepositoryType>git</RepositoryType>
+    <PackageDescription>Contains classes with information for transferring data between the wpf client and asp net server (QumartSeller).</PackageDescription>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <RepositoryUrl>https://github.com/Nailed34/QumartSeller_ClientServerConnection.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Nailed34/QumartSeller_ClientServerConnection-demo.git</RepositoryUrl>
+    <Description>Contains classes with information for transferring data between the wpf client and asp net server (QumartSeller).</Description>
+    <PackageProjectUrl>https://github.com/Nailed34/QumartSeller_ClientServerConnection-demo</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>

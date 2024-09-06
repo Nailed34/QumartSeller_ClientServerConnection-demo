@@ -1,6 +1,6 @@
 ﻿/**
  * @QumartSeller_ClientServerConnection
- * https://github.com/Nailed34/QumartSeller_ClientServerConnection.git
+ * https://github.com/Nailed34/QumartSeller_ClientServerConnection-demo.git
  *
  * Copyright (c) 2024 https://github.com/Nailed34
  * Released under the MIT license

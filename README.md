@@ -1,0 +1,1 @@
+Contains classes with information for transferring data between the wpf client and asp net server (QumartSeller).
