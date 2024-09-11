@@ -7,7 +7,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>QumartSeller_ClientServerConnection</PackageId>
     <Title>QumartSeller_ClientServerConnection</Title>
-    <Version>0.1.1-alpha</Version>
+    <Version>0.1.2-alpha</Version>
     <Authors>Nailed34</Authors>
     <Product>QumartSeller</Product>
     <Copyright>MIT License</Copyright>
