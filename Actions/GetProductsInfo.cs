@@ -9,7 +9,7 @@
 namespace ClientServerConnection.Actions
 {
     /// <summary>
-    /// Struct for get onions in range
+    /// Class for get onions in range
     /// </summary>
     public class InGetProductsInfo
     {
