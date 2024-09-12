@@ -57,9 +57,3 @@ Qumart Seller - сервис для синхронизации остатков 
 ```
 $ dotnet add package QumartSeller_ClientServerConnection --version 0.1.2-alpha
 ```
-или подключить вручную, добавив данные строки в .csproj файл проекта:<br/>
-```
-  <ItemGroup>
-    <PackageReference Include="QumartSeller_ClientServerConnection" Version="0.1.2-alpha" />
-  </ItemGroup>
-```
