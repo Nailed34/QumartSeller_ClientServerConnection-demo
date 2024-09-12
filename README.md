@@ -53,7 +53,10 @@ Qumart Seller - сервис для синхронизации остатков 
 </configuration>
 ```
 Затем пакет можно будет подключить в менеджере пакетов Nuget в Visual Studio (указать источник пакетов github и включить предварительные версии)<br/>
-или с помощью команды $ dotnet add package QumartSeller_ClientServerConnection --version 0.1.2-alpha
+или с помощью команды
+```
+$ dotnet add package QumartSeller_ClientServerConnection --version 0.1.2-alpha
+```
 или подключить вручную, добавив данные строки в .csproj файл проекта:<br/>
 ```
   <ItemGroup>
